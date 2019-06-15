@@ -5,7 +5,7 @@ p.second{color: rgb(226, 9, 9);font-size: 26;font-style: normal;text-align: cent
 
 p.third{color: sienna;font-size: 24;font-style: italic;}
 
-body{background-image: url(IMG_20181108_081525.jpg);background-repeat: no-repeat;}
+body{background-image: url(pic/IMG_20181108_081525.jpg);background-repeat: no-repeat;}
 
 img{border-style:dashed;border-width:1px;border-color:green purple red blue;
     height: 200;width: 200;}
